@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anuj Kumar with username @anuj4you on github
-- 👀 I’m interested in coding, front end web development, art work and I love driving.
+- 👀 I’m interested in programming, web development, art work and I love driving.
 - 🌱 I’m currently studying Computer Science. 
 - 💞️ I’m looking to collaborate on a lot of projects in future.
 - 📫 How to reach me : connect on github with @anuj4you username.
