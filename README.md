@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, DSA, web development, art work and I love driving.
 - 🌱 I’m currently studying Computer Science. 
 - 💞️ I’m looking to collaborate on a lot of projects.
-- 📫 How to reach me : connect on github with @anuj4you username.
+- 📫 How to reach me : email :setupscrazes@gmail.com
 
 
 Find me on linkedIn : https://www.linkedin.com/in/anuj-kumar-a708b11ba/
