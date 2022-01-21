@@ -1,4 +1,5 @@
-![download (1)](https://user-images.githubusercontent.com/84407032/150585335-0d8dd2ea-2927-4b66-9c0f-2f40975c2236.jpeg)
+![Cover-Image-696x334](https://user-images.githubusercontent.com/84407032/150586346-181f77f8-7acb-4b9b-ab78-3f1070b77ff8.png)
+
 
 
 - 👋 Hi, I’m Anuj Kumar with BSc degree in Computer Science from York University
