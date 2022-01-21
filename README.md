@@ -1,3 +1,6 @@
+![download (1)](https://user-images.githubusercontent.com/84407032/150585335-0d8dd2ea-2927-4b66-9c0f-2f40975c2236.jpeg)
+
+
 - 👋 Hi, I’m Anuj Kumar with username @anuj4you on github
 - 👀 I’m interested in Programming, DSA, web development, art work and I love driving.
 - 🌱 I’m currently studying Computer Science. 
