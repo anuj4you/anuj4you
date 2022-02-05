@@ -4,7 +4,7 @@
 
 
 - 👋 Hi, I’m Anuj Kumar a BSc graduate in Computer Science from York University
-- 👀 I’m interested in Web development, Programming, DSA, art work and I love driving.
+- 👀 I’m interested in FullStack development, blockchain, programming, DSA, art work and I love driving.
 - 🌱 I’m currently working on Full Stack development. 
 - 💞️ I’m looking to collaborate on a lot of projects and become full stack developer.
 - 📫 How to reach me : email :anujk.581@gmail.com
