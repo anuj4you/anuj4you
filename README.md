@@ -5,9 +5,10 @@
 - 👋 I’m a Full Stack Developer with BSc in Computer Science @York University, Toronto Canada.
 - 👀 I’m interested in FullStack development, blockchain, programming, DSA, art work and I love driving.
 - 🌱 I’m currently working on Full Stack development and JavaScript projects. 
-- 📫 How to reach me : email :anujk.581@gmail.com
 
-Find me on linkedIn : https://www.linkedin.com/in/anuj-kumar-a708b11ba/
+📫 Email me : ![html](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) :anujk.581@gmail.com
+
+Connect with me on ![html](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/anuj-kumar-a708b11ba/
 
 
 ## Languages and Tools 👩‍💻
