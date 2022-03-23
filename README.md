@@ -3,10 +3,9 @@
 
 
 
-- 👋 Hi, I’m Anuj Kumar a BSc graduate in Computer Science from York University
+- 👋 Hi, I’m Anuj Kumar a Full Stack Developer with BSc in Computer Science @York University, Toronto Canada
 - 👀 I’m interested in FullStack development, blockchain, programming, DSA, art work and I love driving.
-- 🌱 I’m currently working on Full Stack development. 
-- 💞️ I’m looking to collaborate on a lot of projects and become full stack developer.
+- 🌱 I’m currently working on Full Stack development and modern JavaScript projects. 
 - 📫 How to reach me : email :anujk.581@gmail.com
 
 Find me on linkedIn : https://www.linkedin.com/in/anuj-kumar-a708b11ba/
