@@ -40,6 +40,7 @@ Find me on linkedIn : https://www.linkedin.com/in/anuj-kumar-a708b11ba/
 ## My Github status 📊
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=anuj4you&count_private=true&theme=react&showicons=true)]() 
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj4you&langs_count=5&theme=react)]()
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anuj4you)](https://github.com/anuj4you/github-contribution-stats/)
 
