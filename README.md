@@ -22,19 +22,25 @@ Find me on linkedIn : https://www.linkedin.com/in/anuj-kumar-a708b11ba/
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Name](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Name](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Name](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Name](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Name](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)
+![Name](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 
 ## My Github status 📊
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=anuj4you&count_private=true&theme=react&showicons=true)]()
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=anuj4you&count_private=true&theme=react&showicons=true)]() 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj4you&langs_count=5&theme=react)]()
-
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anuj4you)](https://github.com/anuj4you/github-contribution-stats/)
 
 
