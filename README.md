@@ -6,9 +6,9 @@
 - 👀 I’m interested in FullStack development, blockchain, programming, DSA, art work and I love driving.
 - 🌱 I’m currently working on Full Stack development and JavaScript projects. 
 
-📫 Email me : ![html](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) :anujk.581@gmail.com
+📫 Email me :anujk.581@gmail.com
 
-Connect with me on ![html](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/anuj-kumar-a708b11ba/
+Connect with me on LinkedIn : https://www.linkedin.com/in/anuj-kumar-a708b11ba/
 
 
 ## Languages and Tools 👩‍💻
