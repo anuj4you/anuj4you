@@ -15,8 +15,8 @@ Find me on linkedIn : https://www.linkedin.com/in/anuj-kumar-a708b11ba/
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
-![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+
+![]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 ![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
 ![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
 ![image]({https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white})
