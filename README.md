@@ -3,13 +3,15 @@
 ![b](https://user-images.githubusercontent.com/84407032/160033537-54d055ea-bb37-406d-a2ec-ee7c5b152439.png)
 
 
-- 👋 I’m a Full Stack Developer with BSc in Computer Science @York University, Toronto Canada.
+- 👋 I’m a Software Developer with BSc in Computer Science @York University, Toronto Canada.
 - 👀 I’m interested in FullStack development, blockchain, programming, DSA, art work and I love driving.
 - 🌱 I’m currently working on Full Stack development and JavaScript projects. 
 
 📫 Email me :anujk.581@gmail.com
 
 Connect with me on LinkedIn : https://www.linkedin.com/in/anuj-kumar-a708b11ba/
+
+A knowledgeable and skilled software developer professional offering strong abilities in front-end, back-end and Full Stack Development. Quickly understands requirements of new projects to implement and design systems using front and back-end technologies. Familiar with testing, debugging and correcting problems found in existing systems. Motivated to continue to learn and grow as Full stack developer professional. I have done my BSc in Computer Science from York University also I am the founder of Setupscraze an online ecommerce platform for gadgets and computer accessories. I love Full stack web Development, programming, coding, Pixel art, driving and Photography.
 
 
 ## Languages and Tools 👩‍💻
