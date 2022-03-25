@@ -1,6 +1,7 @@
 # Hi 👋 I am Anuj.
 
-![banner](https://user-images.githubusercontent.com/84407032/159643940-2bc8532a-f566-4cdf-a32a-cd8109284680.png)
+![b](https://user-images.githubusercontent.com/84407032/160033537-54d055ea-bb37-406d-a2ec-ee7c5b152439.png)
+
 
 - 👋 I’m a Full Stack Developer with BSc in Computer Science @York University, Toronto Canada.
 - 👀 I’m interested in FullStack development, blockchain, programming, DSA, art work and I love driving.
