@@ -50,6 +50,6 @@ A knowledgeable and skilled software developer professional offering strong abil
 
 
 <!---
-anuj4you/anuj4you is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+anuj4you/anuj4you is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 You can click the Preview link to take a look at your changes.
 --->
