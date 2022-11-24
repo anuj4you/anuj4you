@@ -4,7 +4,7 @@
 
 
 - 👋 I’m a Software Developer with BSc in Computer Science @York University, Toronto Canada.
-- 👀 I’m interested in Front-end development, Web3, blockchain, programming, DSA, art work and I love driving.
+- 👀 I’m interested in Front-end web development, Mobile App Development, Web3, blockchain, programming, DSA, art work and I love driving.
 - 🌱 I’m currently working on Full Stack development and JavaScript projects. 
 
 📫 Email me :anujk.581@gmail.com
